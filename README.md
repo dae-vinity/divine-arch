@@ -6,7 +6,7 @@ my personal goal for this setup is to prioritize performance while also being (a
 
 ### packages  
 [a]() [`b`]() (c)  
-[gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) [`greetd-gtkgreet`](https://archlinux.org/packages/extra/x86_64/greetd-gtkgreet/) (greeter frontend)  
+[regreet](https://github.com/rharish101/ReGreet) [`greetd-regreet`](https://archlinux.org/packages/extra/x86_64/greetd-regreet/) (greeter frontend)  
 [labwc](https://labwc.github.io/) [`labwc`](https://archlinux.org/packages/extra/x86_64/labwc/) (Wayland compositor)  
 [ironbar](https://github.com/JakeStanger/ironbar) [`ironbar-bin`](https://aur.archlinux.org/packages/ironbar-bin)<sup>AUR</sup> (panel/taskbar)  
 [Helium](https://helium.computer) [`helium-browser-bin`](https://aur.archlinux.org/packages/helium-browser-bin)<sup>AUR</sup> (web browser)  
