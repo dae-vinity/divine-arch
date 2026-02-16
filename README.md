@@ -1,4 +1,7 @@
-# divine-arch
+# WARNING  
+this is actually not prepared yet, don't actually try to use this yet x3  
+  
+# divine-arch  
 just my own personal arch setup script, but i hope to add enough user customization so people like you can also use it if you'd like :3  
   
 my personal goal for this setup is to prioritize performance while also being (at least fairly) pleasing to the eye.  
@@ -15,6 +18,6 @@ my personal goal for this setup is to prioritize performance while also being (a
 others  
 [greetd](https://git.sr.ht/~kennylevinsen/greetd) [`greetd`](https://archlinux.org/packages/extra/x86_64/greetd/), [NetworkManager](https://networkmanager.dev/) [`networkmanager`](https://archlinux.org/packages/extra/x86_64/networkmanager/), [cage](https://www.hjdskes.nl/projects/cage/) [`cage`](https://archlinux.org/packages/extra/x86_64/cage/)
 
-### installer
+### installer  
 written in: [Go](https://go.dev)  
 tui library: [bubbletea](https://github.com/charmbracelet/bubbletea)
