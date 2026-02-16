@@ -13,7 +13,7 @@ my personal goal for this setup is to prioritize performance while also being (a
 [labwc](https://labwc.github.io/) [`labwc`](https://archlinux.org/packages/extra/x86_64/labwc/) (Wayland compositor)  
 [ironbar](https://github.com/JakeStanger/ironbar) [`ironbar-bin`](https://aur.archlinux.org/packages/ironbar-bin)<sup>AUR</sup> (panel/taskbar)  
 [Helium](https://helium.computer) [`helium-browser-bin`](https://aur.archlinux.org/packages/helium-browser-bin)<sup>AUR</sup> (web browser)  
-[Orchis theme](https://github.com/vinceliuice/Orchis-theme) [`orchis-theme-git`](https://aur.archlinux.org/packages/orchis-theme-git)<sup>AUR</sup> (GTK theme)  
+[Orchis theme](https://github.com/vinceliuice/Orchis-theme) [`orchis-theme`](hhttps://archlinux.org/packages/extra/any/orchis-theme/) (GTK theme)  
   
 others  
 [greetd](https://git.sr.ht/~kennylevinsen/greetd) [`greetd`](https://archlinux.org/packages/extra/x86_64/greetd/), [NetworkManager](https://networkmanager.dev/) [`networkmanager`](https://archlinux.org/packages/extra/x86_64/networkmanager/), [cage](https://www.hjdskes.nl/projects/cage/) [`cage`](https://archlinux.org/packages/extra/x86_64/cage/)
