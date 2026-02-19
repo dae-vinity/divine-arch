@@ -1,7 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <model>
-    <screen class="screen">
-        <pages class="frame" size="idk how to format this" position="idk how to format this either" listlayout="true">
-            <system>
-        </pages>
+    <screen>
+        <frame name="pages">
+            <listlayout/>
+            <button name="system"> [ System ]</button>
+            <button name="users"> [ Users ]</button>
+        </frame>
     </screen>
 </model>
